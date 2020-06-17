@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "saadaftab",
+        "MONGO_PASSWORD": "Flashdrive321",
+        "MONGO_DB": "event_booking_dev",
+        "PORT": 3000
+    }
+}
